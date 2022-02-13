@@ -51,7 +51,7 @@ body{
 
 
 
-/* js */
+
 .all-boxs .box .images{
     width: 100%;
     height: 230px;
@@ -79,79 +79,4 @@ body{
 }
 
 
-/* start contact section  */
-#contact .container{
-    width:1170px;
-    margin: auto;
-    overflow: hidden;
-    font-weight: 500;
-    
-    
-}
-
-#contact .container h1{
-    font-size: 35px;
-    font-weight: 500;
-    text-align: center;
-}
- #contact .container p{
-    color:#777777;
-    width: 500px;
-    line-height: 32px;
-    margin: auto;
-}
-#contact .container form{
-    width: 55%;
-    margin: 55px auto;
-    text-align: center;
-}
-#contact .container input,#contact .container textarea{
-   border-radius: 25px;
-   border:1px solid #d1d1d1;
-   padding: 15px;
-   display: block;
-   margin: 15px auto;
-   width: 100%;
-}
-#contact .container textarea{
-    margin: 30px auto;
-    height: 170px;
-}
-#contact .container form div{
-    display: flex;
-    flex-wrap: wrap;
-    column-gap: 20px;
-   
-}
-#contact .container form div input{
-    width: 310px;
-}
-#contact .container #submit{
-    border: 1px solid #5a56ec;
-    color: white;
-    padding: 15px ;
-    font-size: 15px;
-    background-color: #5a56ec;
-    border-radius: 50px;
-    display: block;
-    margin: 15px auto;
-    width: 100%;
-}
-
-#data{
-    font-weight: bold;
-    font-size: 25px;
-    border-radius: 10px;
-    border: 1px solid rgba(12, 12, 12, 0.541);
-    width: 50%;
-    margin: 50px auto;
-    padding: 0 20px;
-}
-
-#data span{
-    font-size: 20px;
-    color: red;
-}
-
-/* end contact section  */
 
