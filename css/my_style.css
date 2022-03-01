@@ -30,6 +30,7 @@ body{
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 40px;
+    align-items: start;
 }
 .all-boxs .box {
     width:400px;
